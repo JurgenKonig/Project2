@@ -25,3 +25,4 @@ Repository containing every file needed for CSCI 315 Project 2.
                 a. Owner.php, OwnerController.php
                 b. Discuss views for Owners with Trinklein
                 c. Set up Owners table within Asset DB
+          - Comment files previously edited
