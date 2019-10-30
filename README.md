@@ -20,7 +20,8 @@ Repository containing every file needed for CSCI 315 Project 2.
       5. Things to do for next round of coding:
           - Figure out migration issue to sync up DBMS with Laravel (RESOLVED) 
                 a. No 'Created-At' and 'Updated-At' in table
-          - Test DBMS to receive records given through create.blade.php
+          - Test DBMS to receive records given through create.blade.php (CONFIRMED)
+                a. File stream error has arisen, talk to Trinklein about it after class Wednesday
           - Start working on Owner model and Controller
                 a. Owner.php, OwnerController.php
                 b. Discuss views for Owners with Trinklein
