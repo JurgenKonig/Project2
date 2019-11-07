@@ -58,3 +58,4 @@ Repository containing every file needed for CSCI 315 Project 2.
                   a. Created PersonsFactory and PersonsTableSeeder to populate Persons DB
                   
 11/2/2019: Finished up project, finalized README and implemented many-to-many relationship
+11/6/2019: Due to extension, added additional CSS to fluff up the table a little, as well as transitioned to a one-to-many relationship since its implementation seemed to be a tad easier. 
